@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="project-2">
+      <div class="project-2-title">
+        <h1>
+          Simple BMI<br />
+          Calculator
+        </h1>
+      </div>
+      <div class="bmi-container">
+        <div class="bmi">
+          <h2 class="title">BMI Calculator</h2>
+          <div class="input">
+            <label for="height">Height (m)</label>
+            <input
+              type="number"
+              name="height"
+              id="height"
+              placeholder="1.75"
+            /><br />
+          </div>
+          <br />
+          <div class="input">
+            <label for="weight">Weight (kg)</label>
+            <input
+              type="number"
+              name="weight"
+              id="weight"
+              placeholder="77.2"
+            /><br />
+          </div>
+          <button class="calculate">Calculate BMI</button>
+          <div class="result">
+            <p>Your BMI is</p>
+            <h1 class="result-num">25.21</h1>
+          </div>
+          <div class="comment">
+            <p>Comment<b>:</b> You are <span>overweight</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
