@@ -21,6 +21,9 @@ A simple yet effective BMI (Body Mass Index) Calculator built with HTML, Vanilla
 
 # 📸 Screenshot
 
+![BMI_Calculator](https://github.com/krishkumar0204/BMI-Calculator-/blob/fd38348f08c91ea24ca5099705adeaf22fcd793d/Bmi%20calculator%20.png)
+
+
 # 📚 What I Learned
 
 While building this project, I practiced:
