@@ -4,20 +4,20 @@ A simple yet effective BMI (Body Mass Index) Calculator built with HTML, Vanilla
 
 # 🚀 Features
 
-• 📱 User-friendly interface
-• ⚡ Instant BMI calculation on button click
-• 🎨 Styled with Vanilla CSS for a clean look
-• 🔄 Dynamic DOM manipulation for displaying results
-• ✅ Categorizes BMI into Underweight, Normal, Overweight, and Obese
+1. 📱 User-friendly interface
+2. ⚡ Instant BMI calculation on button click
+3. 🎨 Styled with Vanilla CSS for a clean look
+4. 🔄 Dynamic DOM manipulation for displaying results
+5. ✅ Categorizes BMI into Underweight, Normal, Overweight, and Obese
 
 #🛠️ Technologies Used
 
-• HTML5 → Structure of the app
-• CSS3 (Vanilla CSS) → Styling and layout
-• JavaScript (ES6) → Logic and interactivity
-• DOM manipulation
-• Event listeners
-• If-else & nested if conditions
+1. HTML5 → Structure of the app
+2. CSS3 (Vanilla CSS) → Styling and layout
+3. JavaScript (ES6) → Logic and interactivity
+4. DOM manipulation
+5. Event listeners
+6. If-else & nested if conditions
 
 # 📸 Screenshot
 
@@ -25,10 +25,10 @@ A simple yet effective BMI (Body Mass Index) Calculator built with HTML, Vanilla
 
 While building this project, I practiced:
 
-• Structuring a small project with HTML, CSS, and JS.
-• Using DOM selectors (getElementById, querySelector).
-• Attaching event listeners to buttons.
-• Implementing if-else and nested if conditions for decision-making.
-• Updating the UI dynamically using DOM manipulation.
+1. Structuring a small project with HTML, CSS, and JS.
+2. Using DOM selectors (getElementById, querySelector).
+3. Attaching event listeners to buttons.
+4. Implementing if-else and nested if conditions for decision-making.
+5. Updating the UI dynamically using DOM manipulation.
 
 Designed and Crafted by Krish kumar.
