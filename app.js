@@ -5,17 +5,17 @@ const result = document.querySelector(".result-num");
 const condition = document.querySelector("span");
 
 weight.addEventListener("input", () => {
-  return weight.value;
+  return parseInt(weight.value);
 });
 
 height.addEventListener("input", () => {
-  return height.value;
+  return parseInt(height.value);
 });
 
 btn.addEventListener("click", () => {
   if (height.value && weight.value) {
     let bmi = weight.value / (height.value * height.value);
-    let finalResult = bmi.toFixed();
+    let finalResult = bmi.toFixed(2);
 
     if (bmi >= 40) {
       result.innerText = finalResult;
