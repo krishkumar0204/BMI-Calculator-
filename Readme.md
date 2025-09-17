@@ -10,7 +10,7 @@ A simple yet effective BMI (Body Mass Index) Calculator built with HTML, Vanilla
 4. 🔄 Dynamic DOM manipulation for displaying results
 5. ✅ Categorizes BMI into Underweight, Normal, Overweight, and Obese
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 1. HTML5 → Structure of the app
 2. CSS3 (Vanilla CSS) → Styling and layout
